@@ -31,6 +31,7 @@ $smarty->assign('questions_count',count($questions));
 
 $smarty->assign('app_url',APP_URL);
 $smarty->assign('cdn_url',CDN_URL);
+$smarty->assign('session_id',session_id());
 
 /**
 * set language

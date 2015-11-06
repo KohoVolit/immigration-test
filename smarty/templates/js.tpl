@@ -60,7 +60,15 @@ $(function() {
                 }
             }
         }
-        nothing = 0;
+        $.ajax({   
+                            type: "POST",
+                            data : $("#myform").serialize(),
+                            cache: false,  
+                            url: "store.php",   
+                            success: function(data){
+                                                      
+                            }   
+                        });   
     })
 });
 

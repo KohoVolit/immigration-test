@@ -3,7 +3,7 @@
 
     {include "modal.tpl"}
 
-    <form action="">
+    <form  method="POST" action="store.php" id="myform">
         <div class="gallery">
             {include "front-page.tpl"}
             {foreach $questions as $question}

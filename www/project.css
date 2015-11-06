@@ -1,0 +1,46 @@
+
+.gallery-cell {
+  width: 100%; /* full width */
+  min-height:90vh; /* height of gallery */
+  /*height: 500px;*/
+  /*margin-right: 0px;*/
+  margin-left: 0px;
+}
+
+/* dots are lines */
+.flickity-page-dots .dot {
+  height: 4px;
+  width: 40px;
+  margin: 0;
+  border-radius: 0;
+}
+
+.flickity-prev-next-button {
+    display: none;
+}
+
+/* cell number */
+.gallery-cell {
+  /*display: block;
+  text-align: center;*/
+/* content: counter(gallery-cell); */
+  /*line-height: 200px;*/
+  /*font-size: 80px;*/
+  /*color: white;*/
+}
+
+
+.button-answer {
+    white-space: normal;
+    text-align: left;
+}
+
+.bg-correct {
+    background-color: #3f3;
+}
+.bg-wrong {
+    background-color: #f88;
+}
+.wrong-question {
+    text-decoration: line-through;
+}

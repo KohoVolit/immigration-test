@@ -15,10 +15,10 @@ results_0,Bad. Worse than random answers. You should learn more. Try some of the
 results_00,Are you joking? No correct answer! Where are you living?
 resources,Resources
 result_fb_appid,1060613017290436
-result_winner_share,Share the app on Facebook
+fb_share,Share the app on Facebook
 result_fb_picture_link,http://test.kohovolit.sk/m/it/www/image/picture.jpg
 result_fb_name,'"Immigration test"'
-result_fb_description_1,"My best match in the Inventory of Votes of European parliament 2014-2015: "
+result_fb_caption,''
 result_fb_description,Chalenge your own preconception
 result_fb_redirect_link,http://test.kohovolit.sk/m/it/www/
 result_fb_link,http://test.kohovolit.sk/m/it/www/
@@ -27,15 +27,15 @@ brand,Hlídame.je
 website_description,"" 
 website_keywords,"openness"
 website_author,KohoVolit.eu
-og:image,http://hlidame.je/images/ep.jpg
-og:title,Hlídáme.je
-og:url,http://hlidame.je
-og:site_name,Hlídáme.je
+og:image,http://test.kohovolit.sk/m/it/www/image/picture.jpg
+og:title,Immigration test
+og:url,http://test.kohovolit.sk/m/it/www/
+og:site_name,Immigration test
 google_tracking_id,UA-68928818-1
 yandex_metrica_id,32395705
-fp_title,Activity in European institutions
-title,Activity in European parliament
-footer,Hlídame.je
+fp_title,Immigration test
+title,Immigration test
+footer,Immigration test
 explore,Explore
 download,Download
 about,About

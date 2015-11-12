@@ -47,4 +47,4 @@ demographics_outcome_neutral,neutrální
 demographics_outcome_negative,celkově negativní
 overall_results,celkové výsledky
 dms_button,Podpora 30Kč pomocí DMS
-dms_text,"<strong><span class='text-success'>Podpořte projekty <a href="http://kohovolit.eu">KohoVolit.eu</a></span></strong>.<br/> Pošlete SMS na číslo <strong><span class='text-success'>87777</span></strong> s textem <strong><span class='text-success'>DMS ROK KOHOVOLIT</span></strong> (cena 30Kč, z toho 28Kč pro KohoVolit.eu; automaticky každý měsíc po 1 rok) nebo <strong><span class='text-success'>DMS KOHOVOLIT</span></strong> (jednorázově)"
+dms_text,"<strong><span class='text-success'>Podpořte projekty <a href='http://kohovolit.eu'>KohoVolit.eu</a></span></strong>.<br/> Pošlete SMS na číslo <strong><span class='text-success'>87777</span></strong> s textem <strong><span class='text-success'>DMS ROK KOHOVOLIT</span></strong> (cena 30Kč, z toho 28Kč pro KohoVolit.eu; automaticky každý měsíc po 1 rok) nebo <strong><span class='text-success'>DMS KOHOVOLIT</span></strong> (jednorázově)"

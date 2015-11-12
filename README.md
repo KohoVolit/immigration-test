@@ -25,7 +25,9 @@ create teplates_c/
 
 	mkdir smarty/templates_c
     sudo chown user:www-data smarty/templates_c
-
+    
+create directory www/fonts/ copying https://github.com/FortAwesome/Font-Awesome/tree/master/fonts
+    
 optional: link www/ into webserver
 
 	ln -s [full-path]/www/ [full-path]/app-name

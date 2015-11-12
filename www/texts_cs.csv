@@ -14,24 +14,24 @@ results_33,Nic moc. Zkuste něco ze zdrojů níže.
 results_0,Bída. Horší než náhodné odpovědi. Zkuste něco ze zdrojů níže.
 results_00,"To je fór, ne? Ani jedna správná odpověď, kde žijete?"
 resources,Zdroje
-result_fb_appid,1060613017290436
+result_fb_appid,708398659261895
 fb_share,Sdílej applikaci na Facebooku
-result_fb_picture_link,http://test.kohovolit.sk/m/it/www/image/picture.jpg
+result_fb_picture_link,http://test.kohovolit.eu/imigranti-2015/image/picture.jpg
 result_fb_name,Imigrační test
-result_fb_caption,''
+result_fb_caption,Imigrační test
 result_fb_description,Co víte o dnešní situaci s uprchlíky?
-result_fb_redirect_link,http://test.kohovolit.sk/m/it/www/
-result_fb_link,http://test.kohovolit.sk/m/it/www/
-result_fb_action,"[{'name':'Imigrační test','link':'http://test.kohovolit.sk/m/it/www/'}]"
+result_fb_redirect_link,http://test.kohovolit.eu/imigranti-2015/
+result_fb_link,http://test.kohovolit.eu/imigranti-2015/
+result_fb_action,"[{'name':'Imigrační test','link':'http://test.kohovolit.eu/imigranti-2015/'}]"
 website_description,"Imigrační test" 
 website_keywords,"Imigrační test"
 website_author,KohoVolit.eu
-og:image,http://test.kohovolit.sk/m/it/www/image/picture.jpg
+og:image,http://test.kohovolit.eu/imigranti-2015/image/picture.jpg
 og:title,Imigrační test
-og:url,http://test.kohovolit.sk/m/it/www/
+og:url,http://test.kohovolit.eu/imigranti-2015/
 og:site_name,Imigrační test
-google_tracking_id,UA-68928818-1
-yandex_metrica_id,32395705
+google_tracking_id,UA-8592359-28
+yandex_metrica_id,33531913
 fp_title,Imigrační test
 title,Imigrační test
 footer,Imigrační test

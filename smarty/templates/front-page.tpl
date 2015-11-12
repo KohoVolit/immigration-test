@@ -10,6 +10,8 @@
         </div>
     </div>
     <input type="hidden" name="session_id" value="{$session_id}">
+    <input type="hidden" name="http_referer" value="{$http_referer}">
+    <input type="hidden" name="http_user_agent" value="{$http_user_agent}">
 
 
 </div> <!-- /cell-0 -->

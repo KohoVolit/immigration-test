@@ -33,6 +33,16 @@ $smarty->assign('app_url',APP_URL);
 $smarty->assign('cdn_url',CDN_URL);
 $smarty->assign('session_id',session_id());
 
+if (isset($_SERVER['HTTP_REFERER']))
+    $smarty->assign('http_referer',$_SERVER['HTTP_REFERER']);
+else
+    $smarty->assign('http_referer',"");
+
+if (isset($_SERVER['HTTP_USER_AGENT']))
+    $smarty->assign('http_user_agent',$_SERVER['HTTP_USER_AGENT']);
+else
+    $smarty->assign('user_agent',"");
+
 /**
 * set language
 */

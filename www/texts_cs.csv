@@ -4,6 +4,7 @@ next,Další
 fp_header_2,Co víte o dnešní situaci s uprchlíky?
 fp_header_1,"Imigrační test"
 start_test,Spustit test
+from_authors,Od autorů <a href="http://volebnikalkulacka.cz" target="_blank">Volební kalkulačky</a>
 hint,Hint
 correct,Správně!
 wrong,Špatně.

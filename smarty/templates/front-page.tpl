@@ -8,6 +8,7 @@
         <div class="btn btn-success btn-lg btn-block movex">
              <strong>{$t['start_test']} > </strong>
         </div>
+        <p>{$t['from_authors']}
     </div>
     <input type="hidden" name="session_id" value="{$session_id}">
     <input type="hidden" name="http_referer" value="{$http_referer}">

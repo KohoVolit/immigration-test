@@ -21,7 +21,7 @@ $(function() {
 function storePosition(position) {
     if (position) {
         $("#latitude").val(position.coords.latitude);
-        $("#longitude").val(position.coords.latitude);
+        $("#longitude").val(position.coords.longitude);
         $("#accuracy").val(position.coords.accuracy);
         $("#geolocation").val("ok"); 
     } else {

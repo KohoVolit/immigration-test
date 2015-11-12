@@ -9,6 +9,7 @@
              <strong>{$t['start_test']} > </strong>
         </div>
     </div>
+    <input type="hidden" name="session_id" value="{$session_id}">
 
 
 </div> <!-- /cell-0 -->

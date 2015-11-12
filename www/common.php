@@ -47,7 +47,7 @@ function lang($path2root) {
         if (isset($_SESSION['lang']))
             return $_SESSION['lang'];
         else //default language
-            return 'en';
+            return 'cs';
         }
 }
 

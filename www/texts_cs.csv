@@ -1,0 +1,50 @@
+code,text
+iso_lang,cs
+next,Další
+fp_header_2,Co víte o dnešní situaci s uprchlíky?
+fp_header_1,"Imigrační test"
+start_test,Spustit test
+hint,Hint
+correct,Správně!
+wrong,Špatně.
+correct_answer,Správná odpověď
+results_100,Výborně!
+results_66,Víte toho hodně! Ale pořád můžete najít něco zajímavého v dalších zdrojích.
+results_33,Nic moc. Zkuste něco ze zdrojů níže.
+results_0,Bída. Horší než náhodné odpovědi. Zkuste něco ze zdrojů níže.
+results_00,"To je fór, ne? Ani jedna správná odpověď, kde žijete?"
+resources,Zdroje
+result_fb_appid,1060613017290436
+fb_share,Sdílej applikaci na Facebooku
+result_fb_picture_link,http://test.kohovolit.sk/m/it/www/image/picture.jpg
+result_fb_name,Imigrační test
+result_fb_caption,''
+result_fb_description,Co víte o dnešní situaci s uprchlíky?
+result_fb_redirect_link,http://test.kohovolit.sk/m/it/www/
+result_fb_link,http://test.kohovolit.sk/m/it/www/
+result_fb_action,"[{'name':'Imigrační test','link':'http://test.kohovolit.sk/m/it/www/'}]"
+website_description,"Imigrační test" 
+website_keywords,"Imigrační test"
+website_author,KohoVolit.eu
+og:image,http://test.kohovolit.sk/m/it/www/image/picture.jpg
+og:title,Imigrační test
+og:url,http://test.kohovolit.sk/m/it/www/
+og:site_name,Imigrační test
+google_tracking_id,UA-68928818-1
+yandex_metrica_id,32395705
+fp_title,Imigrační test
+title,Imigrační test
+footer,Imigrační test
+demographics_well,"Řekněte nám něco o sobě.<br>Tyto anonymní informace slouží jen pro výzkum na Univerzitě Hradec Králové.<br><strong>Tyto odpovědi nebudou zahrnuty ve Vašich výsledcích.</strong>"
+demographics_age,Váš věk
+demographics_education,Vaše vzdělání
+demographics_education_primary,Základní
+demographics_education_secondary,Střední
+demographics_education_uni,Vysokoškolské
+demographics_outcome,"Co myslíte, jaký bude výsledek současné situace s uprchlíky? Bude"
+demographics_outcome_positive,celkově pozitivní
+demographics_outcome_neutral,neutrální
+demographics_outcome_negative,celkově negativní
+overall_results,celkové výsledky
+dms_button,Podpora 30Kč pomocí DMS
+dms_text,"<strong><span class='text-success'>Podpořte projekty <a href="http://kohovolit.eu">KohoVolit.eu</a></span></strong>.<br/> Pošlete SMS na číslo <strong><span class='text-success'>87777</span></strong> s textem <strong><span class='text-success'>DMS ROK KOHOVOLIT</span></strong> (cena 30Kč, z toho 28Kč pro KohoVolit.eu; automaticky každý měsíc po 1 rok) nebo <strong><span class='text-success'>DMS KOHOVOLIT</span></strong> (jednorázově)"

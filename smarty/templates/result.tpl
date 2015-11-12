@@ -1,13 +1,14 @@
 <div class="gallery-cell text-center alert alert-info" id="cell-{$questions_count+2}" data-cell="{$questions_count+2}">
     <div class="container">
-        <div class="jumbotron">
+        <div class="well well-lg">
             <h2><span id="smiley-correct-answers"></span></h2>
             <h1><span id="number-correct-answers"></span> / {$questions_count}</h1>
-            <p><span id="text-correct-answers"></span>
+            <p class="xl"><span id="text-correct-answers"></span>
         </div>
         <div class="well">
         {include "match-fb.tpl"}
-        Resources:<br>
+        {include "dms.tpl"}
+        {$t['resources']}:<br>
         <a href="https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War#cite_note-Tagesspiegel.2C_Berlin.2C_Germany-8">Wikipedia</a>, 
 <a href="http://data.unhcr.org/syrianrefugees/regional.php">UN Refugee Agency</a>, 
 <a href="http://www.pewforum.org/2011/01/27/future-of-the-global-muslim-population-regional-europe/">Pew Forum</a>, 

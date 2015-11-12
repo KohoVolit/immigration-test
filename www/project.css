@@ -33,6 +33,7 @@
 .button-answer {
     white-space: normal;
     text-align: left;
+    min-width: 200px;
 }
 
 .bg-correct {
@@ -44,3 +45,19 @@
 .wrong-question {
     text-decoration: line-through;
 }
+
+.l {
+    font-size: 1.5em;  
+}
+.xl {
+    font-size: 2em;
+}
+
+.button {
+    white-space: normal;
+}
+
+@media (min-width: 600px) {
+    
+}
+

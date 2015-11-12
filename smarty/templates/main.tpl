@@ -25,6 +25,8 @@
 	<script src="{$cdn_url}libs/jquery.min.js"></script>
     <script src="{$cdn_url}libs/bootstrap.min.js"></script>
     <script src="{$cdn_url}libs/flickity.pkgd.min.js"></script>
+    <script src="{$cdn_url}libs/flickity.pkgd.min.js"></script>
+    <script src="{$cdn_url}libs/handlebars.min.js"></script>
 {*	<script src="{$cdn_url}libs/bootstrap.min.js"></script>*}
 {*    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>*}
 {*    <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>*}

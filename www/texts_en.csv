@@ -23,9 +23,8 @@ result_fb_description,Chalenge your own preconception
 result_fb_redirect_link,http://test.kohovolit.sk/m/it/www/
 result_fb_link,http://test.kohovolit.sk/m/it/www/
 result_fb_action,"[{'name':'Immigration test','link':'http://test.kohovolit.sk/m/it/www/'}]"
-brand,Hlídame.je
-website_description,"" 
-website_keywords,"openness"
+website_description,"Immigration test" 
+website_keywords,"Immigration test"
 website_author,KohoVolit.eu
 og:image,http://test.kohovolit.sk/m/it/www/image/picture.jpg
 og:title,Immigration test
@@ -36,101 +35,16 @@ yandex_metrica_id,32395705
 fp_title,Immigration test
 title,Immigration test
 footer,Immigration test
-explore,Explore
-download,Download
-about,About
-choose_show,What to explore
-choose_filter,Select filter
-close,Close
-data,Data
-people,People
-groups,Groups
-countries,Member States
-parties,Parties
-filter,Filter
-not_whole_term,MEP has not been in the EP whole term
-median,Median
-count,Count
-info,Info
-info_explanation_people,"<p><i class='fa fa-circle traffic-color-1'></i> more activity, <i class='fa fa-circle traffic-color-2'></i> average activity, <i class='fa fa-circle traffic-color-3'></i> less activity<p><i class='fa fa-lightbulb-o'></i> TIP: Data can be sorted by clicking the name of an activity"
-info_explanation,"<p><i class='fa fa-circle traffic-color-1'></i> more activity, <i class='fa fa-circle traffic-color-2'></i> average activity, <i class='fa fa-circle traffic-color-3'></i> less activity<p>We use within-group average<p><i class='fa fa-lightbulb-o'></i> TIP: Data can be sorted by clicking the name of an activity"
-select_all,Check all
-deselect_all,Uncheck all
-cc-be,Belgium
-cc-bg,Bulgaria
-cc-cz,Czech Republic
-cc-dk,Denmark
-cc-de,Germany
-cc-ee,Estonia
-cc-ie,Ireland
-cc-el,Greece
-cc-es,Spain
-cc-fr,France
-cc-hr,Croatia
-cc-it,Italy
-cc-cy,Cyprus
-cc-lv,Latvia
-cc-lt,Lithuania
-cc-lu,Luxembourg
-cc-hu,Hungary
-cc-mt,Malta
-cc-nl,Netherlands
-cc-at,Austria
-cc-pl,Poland
-cc-pt,Portugal
-cc-ro,Romania
-cc-si,Slovenia
-cc-sk,Slovakia
-cc-fi,Finland
-cc-se,Sweden
-cc-uk,United Kingdom
-CRE,Plenary speeches
-MOTION,Motions
-REPORT,Rapporteur reports
-REPORT-SHADOW, Shadow Rapporteur reports
-COMPARL,Rapporteur of opinions reports
-COMPARL-SHADOW,Shadow Rapporteur of Opinion reports
-WDECL,Written declarations
-QP,Parliamentary questions
-description-CRE,"Number of individual plenary speeches given by the MEP throughout a term of office. Debate time is split proportionally to the number of seats held by the MEP's political group and his of her national delegation."
-description-MOTION,"Each MEP can table a motion of no more than 200 words and keeping within the EP's powers and functions. Motions are however typically tabled by a political group, a committee, or by at least 40 MEPs."
-description-REPORT,"Rapporteur reports - number of reports written by the MEP in the position of a Rapporteur. In the EP, committees are often tasked with preparing reports on legislative proposals and other subjects. Each report is assigned to a Rapporteur who is made responsible for its creation. Being involved in the writing of a report from the very beginning makes the person of the Rapporteur an important influence on its final text."
-description-REPORT-SHADOW,"Shadow Rapporteur reports - whereas the Rapporteur formulates a committee's stance towards a given subject, minority political groups can appoint a Shadow Rapporteur. He then stays in contact with the Rapporteur, formulates his or her group's position towards the subject and, if the subject is a legislative proposal, prepares notes for his group regarding the vote on amendments and on the proposal itself."
-description-COMPARL,"Rapporteur of opinions reports - number of times when the MEP prepared an opinion report on a text, legislative or other, or on a question. Both types of reports are most often initially submitted to one or more committees. For legislative texts, the opinions take the form of amendments, whereas for non-legislative texts, they consist of motions regarding the text."
-description-COMPARL-SHADOW,"Shadow Rapporteur of Opinion reports. Similarly to a Shadow Rapporteur, a Shadow Rapporteur of Opinion formulates his or her group's stance towards a given subject. This indicator then shows the number of opinion reports put together by the MEP throughout the term as a Shadow Rapporteur of Opinion."
-description-WDECL,"A written declaration is a text of no more than 200 words, relating to a subject within the EU's competence. A written declaration can be submitted by a group of at least 10 MEPs from at least 3 political groups. It takes the form of a text to be signed by their colleagues."
-description-QP,"MEPs can address questions to the Commission, the Council or other institutions either orally during a debate or in writing. Here we present the number of questions addressed by an MEP to the Commission or to the Council."
-g-greens-efa,The Greens/European Free Alliance
-g-alde-adle,Alliance of Liberals and Democrats for Europe 
-g-gue-ngl,European United Left–Nordic Green Left
-g-enf,Europe of Nations and Freedom
-g-ecr,European Conservatives and Reformists
-g-epp,European People's Party
-g-efd,Europe of Freedom and Direct Democracy
-g-sd,Progressive Alliance of Socialists and Democrats 
-g-ni,Non-Attached Members
-european_parliament,European Parliament
-council,Council of the European Union
-c_title,Attendance of ministers in the Council
-configurations,Configurations
-co-agrifish,Agriculture and fisheries
-co-compet,Competitiveness
-co-ecofin,Economic and financial affairs
-co-eycs,"Education, youth, culture and sport"
-co-epsco,"Employment, social policy, health and consumer affairs"
-co-env,Environment
-co-fac,Foreign affairs
-co-gac,General affairs
-co-hsg,Heads of state or government
-co-jha,Justice and home affairs
-co-tte,"Transport, telecommunications and energy"
-co-xx,XX
-average_minister_presence,Ministers' average attendance
-since,Since
-until,Until
-time_filter,Time filter
-c_info_explanation,"<p><i class='fa fa-stop' style='color:darkgreen'></i> Minister was present, <i class='fa fa-stop' style='color:red'></i>  Minister was absent"
-data_info,"Data for the 8th European Parliament (starting in 2014)"
-last_updated,Last update
-methodology,Methodology
-more_studies,More studies
+demographics_well,"Tell us something about you.<br>This anonymous information serves only for research at University of Königgrätz.<br><strong>These answers will not be included in your results.</strong>"
+demographics_age,Your age
+demogarphics_education,Your education
+demographics_education_primary,Primary
+demographics_education_secondary,Secondary
+demographics_education_uni,University
+demographics_outcome,"What do you think about the result of the current immigration situation? It shall be"
+demographics_outcome_positive,overall positive
+demographics_outcome_neutral,rather neutral
+demographics_outcom_negative,overall negative
+overall_results,overall results
+dms_button,Podpora 30Kč pomocí DMS
+dms_text,"<strong><span class='text-success'>Podpořte projekty <a href="http://kohovolit.eu">KohoVolit.eu</a></span></strong>.<br/> Pošlete SMS na číslo <strong><span class='text-success'>87777</span></strong> s textem <strong><span class='text-success'>DMS ROK KOHOVOLIT</span></strong> (cena 30Kč, z toho 28Kč pro KohoVolit.eu; automaticky každý měsíc po 1 rok) nebo <strong><span class='text-success'>DMS KOHOVOLIT</span></strong> (jednorázově)"

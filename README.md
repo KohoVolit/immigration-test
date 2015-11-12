@@ -27,7 +27,9 @@ create teplates_c/
     sudo chown user:www-data smarty/templates_c
     
 create directory www/fonts/ copying https://github.com/FortAwesome/Font-Awesome/tree/master/fonts
-    
+ 
+set correct fb app id, google analytics id and yandex metrica id in text files (e.g., www/texts_en.csv)
+ 
 optional: link www/ into webserver
 
 	ln -s [full-path]/www/ [full-path]/app-name
